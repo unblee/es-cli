@@ -3,8 +3,8 @@ package count
 import (
 	"context"
 
-	count "github.com/rerost/es-cli/cmd/count/index"
-	"github.com/rerost/es-cli/domain"
+	count "github.com/unblee/es-cli/cmd/count/index"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 

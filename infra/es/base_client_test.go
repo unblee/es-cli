@@ -8,8 +8,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/rerost/es-cli/config"
-	"github.com/rerost/es-cli/infra/es"
+	"github.com/unblee/es-cli/config"
+	"github.com/unblee/es-cli/infra/es"
 )
 
 func TestNewClient(t *testing.T) {

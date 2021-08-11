@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	nhttp "net/http"
 
-	"github.com/rerost/es-cli/config"
+	"github.com/unblee/es-cli/config"
 )
 
 func NewClient(cfg config.Config) *nhttp.Client {

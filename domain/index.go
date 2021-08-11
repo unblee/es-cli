@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rerost/es-cli/infra/es"
+	"github.com/unblee/es-cli/infra/es"
 	"github.com/srvc/fail"
 	"go.uber.org/zap"
 )

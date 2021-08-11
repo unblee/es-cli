@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/rerost/es-cli/domain"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 	"github.com/srvc/fail"
 )

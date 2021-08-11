@@ -3,8 +3,8 @@ package copy
 import (
 	"context"
 
-	copy "github.com/rerost/es-cli/cmd/copy/index"
-	"github.com/rerost/es-cli/domain"
+	copy "github.com/unblee/es-cli/cmd/copy/index"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 

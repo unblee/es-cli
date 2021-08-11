@@ -1,7 +1,7 @@
 package logger
 
 import (
-	"github.com/rerost/es-cli/config"
+	"github.com/unblee/es-cli/config"
 	"github.com/srvc/fail"
 	"go.uber.org/zap"
 )
