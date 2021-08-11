@@ -3,7 +3,7 @@ package domain
 import (
 	"context"
 
-	"github.com/rerost/es-cli/infra/es"
+	"github.com/unblee/es-cli/infra/es"
 	"github.com/srvc/fail"
 )
 

@@ -3,8 +3,8 @@ package add
 import (
 	"context"
 
-	"github.com/rerost/es-cli/cmd/add/alias"
-	"github.com/rerost/es-cli/domain"
+	"github.com/unblee/es-cli/cmd/add/alias"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 

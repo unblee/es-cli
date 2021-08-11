@@ -3,8 +3,8 @@ package update
 import (
 	"context"
 
-	update "github.com/rerost/es-cli/cmd/update/detail"
-	"github.com/rerost/es-cli/domain"
+	update "github.com/unblee/es-cli/cmd/update/detail"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 

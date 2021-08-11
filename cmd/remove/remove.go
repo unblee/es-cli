@@ -3,8 +3,8 @@ package remove
 import (
 	"context"
 
-	"github.com/rerost/es-cli/cmd/remove/alias"
-	"github.com/rerost/es-cli/domain"
+	"github.com/unblee/es-cli/cmd/remove/alias"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 

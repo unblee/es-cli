@@ -7,11 +7,11 @@ package cmd
 
 import (
 	"context"
-	"github.com/rerost/es-cli/config"
-	"github.com/rerost/es-cli/domain"
-	"github.com/rerost/es-cli/infra/es"
-	"github.com/rerost/es-cli/infra/http"
-	"github.com/rerost/es-cli/infra/logger"
+	"github.com/unblee/es-cli/config"
+	"github.com/unblee/es-cli/domain"
+	"github.com/unblee/es-cli/infra/es"
+	"github.com/unblee/es-cli/infra/http"
+	"github.com/unblee/es-cli/infra/logger"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 )

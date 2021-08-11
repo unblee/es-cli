@@ -3,8 +3,8 @@ package dump
 import (
 	"context"
 
-	dump "github.com/rerost/es-cli/cmd/dump/index"
-	"github.com/rerost/es-cli/domain"
+	dump "github.com/unblee/es-cli/cmd/dump/index"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 

@@ -3,9 +3,9 @@ package list
 import (
 	"context"
 
-	alist "github.com/rerost/es-cli/cmd/list/alias" // FIXME pkg name
-	ilist "github.com/rerost/es-cli/cmd/list/index"
-	"github.com/rerost/es-cli/domain"
+	alist "github.com/unblee/es-cli/cmd/list/alias" // FIXME pkg name
+	ilist "github.com/unblee/es-cli/cmd/list/index"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 

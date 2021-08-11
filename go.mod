@@ -1,4 +1,4 @@
-module github.com/rerost/es-cli
+module github.com/unblee/es-cli
 
 go 1.12
 

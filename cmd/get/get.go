@@ -3,8 +3,8 @@ package get
 import (
 	"context"
 
-	get "github.com/rerost/es-cli/cmd/get/detai"
-	"github.com/rerost/es-cli/domain"
+	get "github.com/unblee/es-cli/cmd/get/detai"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 

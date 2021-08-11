@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rerost/es-cli/cmd"
+	"github.com/unblee/es-cli/cmd"
 )
 
 func main() {

@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/rerost/es-cli/config"
+	"github.com/unblee/es-cli/config"
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"
 	"github.com/srvc/fail"

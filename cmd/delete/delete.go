@@ -3,8 +3,8 @@ package delete
 import (
 	"context"
 
-	delete "github.com/rerost/es-cli/cmd/delete/index"
-	"github.com/rerost/es-cli/domain"
+	delete "github.com/unblee/es-cli/cmd/delete/index"
+	"github.com/unblee/es-cli/domain"
 	"github.com/spf13/cobra"
 )
 
